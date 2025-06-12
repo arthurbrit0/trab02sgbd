@@ -1,0 +1,68 @@
+T1.vinho_id,T1.rotulo,T1.ano_producao,T1.uva_id,T1.pais_producao_id,T2.uva_id,T2.nome,T2.tipo,T2.ano_colheita,T2.pais_origem_id
+219,coherent-chablis,1948,1,0,1,Muscat Hamburg,tinto,1939,2
+196,orthogonal-muscat,1948,1,2,1,Muscat Hamburg,tinto,1939,2
+92,ordered-burgundy,1948,1,0,1,Muscat Hamburg,tinto,1939,2
+5,emerald-zinfandel,1948,1,2,1,Muscat Hamburg,tinto,1939,2
+392,heather-dolcetto,1920,10,0,10,Viognier,rosé,1915,0
+207,sunny-chianti,1996,11,1,11,Flame Seedless,branco,1993,0
+8,brownian-chardonnay,1996,11,2,11,Flame Seedless,branco,1993,0
+199,freezing-blanc,1996,11,0,11,Flame Seedless,branco,1993,0
+263,grandioso-barbaresco,1996,11,2,11,Flame Seedless,branco,1993,0
+355,freezing-chianti,1996,11,2,11,Flame Seedless,branco,1993,0
+243,charcoal-madeira,1996,11,2,11,Flame Seedless,branco,1993,0
+217,red-mead,1996,11,3,11,Flame Seedless,branco,1993,0
+156,light-chianti,1996,11,0,11,Flame Seedless,branco,1993,0
+429,matte-blanc,1996,11,2,11,Flame Seedless,branco,1993,0
+493,stone-moscato,1996,11,1,11,Flame Seedless,branco,1993,0
+254,plain-shiraz,1996,11,3,11,Flame Seedless,branco,1993,0
+245,cold-barolo,1916,12,1,12,Muscat Hamburg,rosé,1913,2
+376,optical-pinot,1916,12,0,12,Muscat Hamburg,rosé,1913,2
+104,partial-chardonnay,1916,12,0,12,Muscat Hamburg,rosé,1913,2
+315,simple-chardonnay,1916,12,0,12,Muscat Hamburg,rosé,1913,2
+216,brutal-burgundy,1916,12,0,12,Muscat Hamburg,rosé,1913,2
+145,pallid-chablis,1916,12,2,12,Muscat Hamburg,rosé,1913,2
+286,proper-lambrusco,1916,12,1,12,Muscat Hamburg,rosé,1913,2
+250,partial-beaujolais,1916,12,1,12,Muscat Hamburg,rosé,1913,2
+275,bounded-merlot,2002,13,3,13,Muscat Hamburg,tinto,2001,1
+346,wood-chinon,2002,13,3,13,Muscat Hamburg,tinto,2001,1
+437,direct-grappa,2002,13,0,13,Muscat Hamburg,tinto,2001,1
+114,plumb-shiraz,2002,13,1,13,Muscat Hamburg,tinto,2001,1
+35,warm-champagne,2002,13,1,13,Muscat Hamburg,tinto,2001,1
+347,round-burgundy,1976,14,2,14,Saint Macaire,branco,1973,1
+115,ternary-port,1976,14,2,14,Saint Macaire,branco,1973,1
+131,product-sherry,1976,14,2,14,Saint Macaire,branco,1973,1
+144,chilly-prosecco,1994,15,1,15,Ruby Seedless,tinto,1987,0
+194,laminated-chinon,1994,15,3,15,Ruby Seedless,tinto,1987,0
+3,bright-bardolino,1994,15,0,15,Ruby Seedless,tinto,1987,0
+179,gritty-riesling,1994,15,2,15,Ruby Seedless,tinto,1987,0
+352,terminal-mead,1994,15,1,15,Ruby Seedless,tinto,1987,0
+357,windy-barolo,1994,15,1,15,Ruby Seedless,tinto,1987,0
+261,principal-champagne,1994,15,1,15,Ruby Seedless,tinto,1987,0
+113,adiabatic-sauvignon,1994,15,3,15,Ruby Seedless,tinto,1987,0
+268,direct-chablis,1994,15,0,15,Ruby Seedless,tinto,1987,0
+470,rowdy-barbaresco,1994,15,1,15,Ruby Seedless,tinto,1987,0
+171,maroon-banylus,1994,15,3,15,Ruby Seedless,tinto,1987,0
+163,neat-chinon,1994,15,0,15,Ruby Seedless,tinto,1987,0
+459,easy-shiraz,1980,16,3,16,Viognier,tinto,1980,3
+299,naive-barbaresco,1980,16,1,16,Viognier,tinto,1980,3
+434,free-mead,1980,16,2,16,Viognier,tinto,1980,3
+248,quick-merlot,1980,16,0,16,Viognier,tinto,1980,3
+66,inverse-chinon,1980,16,1,16,Viognier,tinto,1980,3
+42,jovial-sherry,1980,16,2,16,Viognier,tinto,1980,3
+148,nondeterministic-auslese,1980,16,1,16,Viognier,tinto,1980,3
+283,chamfered-pinot,1980,16,2,16,Viognier,tinto,1980,3
+372,internal-zinfandel,1980,16,3,16,Viognier,tinto,1980,3
+457,chestnut-auslese,1980,16,1,16,Viognier,tinto,1980,3
+93,brave-riesling,1980,16,1,16,Viognier,tinto,1980,3
+412,broad-cabernet,1980,16,2,16,Viognier,tinto,1980,3
+390,rosy-prosecco,2006,17,1,17,Cabernet Sauvignon,branco,2003,1
+343,magnetic-beaujolais,2006,17,2,17,Cabernet Sauvignon,branco,2003,1
+80,wan-sauvignon,2006,17,3,17,Cabernet Sauvignon,branco,2003,1
+26,cold-marsanne,2006,17,1,17,Cabernet Sauvignon,branco,2003,1
+279,buoyant-cabernet,2006,17,2,17,Cabernet Sauvignon,branco,2003,1
+189,decidable-prosecco,1988,18,3,18,Muscat Hamburg,rosé,1984,3
+306,wooden-moscato,1988,18,0,18,Muscat Hamburg,rosé,1984,3
+340,express-chianti,1988,18,3,18,Muscat Hamburg,rosé,1984,3
+311,absolute-albariño,1988,18,1,18,Muscat Hamburg,rosé,1984,3
+150,auburn-zinfandel,1988,18,2,18,Muscat Hamburg,rosé,1984,3
+252,cool-mead,1988,18,1,18,Muscat Hamburg
