@@ -1,9 +1,3 @@
-/*  ===========================================================
-    Trabalho II – CK0117 (SGBD) – Junção Sort‑Merge com Ordenação Externa
-    Autores: <preencha aqui se desejar>
-    Compilação: g++ -std=c++17 -O2 main.cpp -o trab2
-    =========================================================== */
-
 #include <bits/stdc++.h>
 using namespace std;
 
