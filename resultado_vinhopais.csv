@@ -1,0 +1,501 @@
+A.vinho_id,A.rotulo,A.ano_producao,A.uva_id,A.pais_producao_id,B.pais_id,B.nome,B.sigla
+1,roaring-claret,2020,41,0,0,Argentina,ARG
+1,roaring-claret,2020,41,0,0,Argentina,ARG
+1,roaring-claret,2020,41,0,0,Argentina,ARG
+1,roaring-claret,2020,41,0,0,Argentina,ARG
+1,roaring-claret,2020,41,0,0,Argentina,ARG
+1,roaring-claret,2020,41,0,0,Argentina,ARG
+1,roaring-claret,2020,41,0,0,Argentina,ARG
+1,roaring-claret,2020,41,0,0,Argentina,ARG
+1,roaring-claret,2020,41,0,0,Argentina,ARG
+1,roaring-claret,2020,41,0,0,Argentina,ARG
+62,smoggy-muscat,1956,3,0,0,Argentina,ARG
+62,smoggy-muscat,1956,3,0,0,Argentina,ARG
+62,smoggy-muscat,1956,3,0,0,Argentina,ARG
+62,smoggy-muscat,1956,3,0,0,Argentina,ARG
+62,smoggy-muscat,1956,3,0,0,Argentina,ARG
+62,smoggy-muscat,1956,3,0,0,Argentina,ARG
+62,smoggy-muscat,1956,3,0,0,Argentina,ARG
+62,smoggy-muscat,1956,3,0,0,Argentina,ARG
+62,smoggy-muscat,1956,3,0,0,Argentina,ARG
+62,smoggy-muscat,1956,3,0,0,Argentina,ARG
+105,bare-chardonnay,1944,59,0,0,Argentina,ARG
+105,bare-chardonnay,1944,59,0,0,Argentina,ARG
+105,bare-chardonnay,1944,59,0,0,Argentina,ARG
+105,bare-chardonnay,1944,59,0,0,Argentina,ARG
+105,bare-chardonnay,1944,59,0,0,Argentina,ARG
+105,bare-chardonnay,1944,59,0,0,Argentina,ARG
+105,bare-chardonnay,1944,59,0,0,Argentina,ARG
+105,bare-chardonnay,1944,59,0,0,Argentina,ARG
+105,bare-chardonnay,1944,59,0,0,Argentina,ARG
+105,bare-chardonnay,1944,59,0,0,Argentina,ARG
+122,beige-bardolino,1920,62,0,0,Argentina,ARG
+122,beige-bardolino,1920,62,0,0,Argentina,ARG
+122,beige-bardolino,1920,62,0,0,Argentina,ARG
+122,beige-bardolino,1920,62,0,0,Argentina,ARG
+122,beige-bardolino,1920,62,0,0,Argentina,ARG
+122,beige-bardolino,1920,62,0,0,Argentina,ARG
+122,beige-bardolino,1920,62,0,0,Argentina,ARG
+122,beige-bardolino,1920,62,0,0,Argentina,ARG
+122,beige-bardolino,1920,62,0,0,Argentina,ARG
+122,beige-bardolino,1920,62,0,0,Argentina,ARG
+168,oily-lambrusco,1930,21,0,0,Argentina,ARG
+168,oily-lambrusco,1930,21,0,0,Argentina,ARG
+168,oily-lambrusco,1930,21,0,0,Argentina,ARG
+168,oily-lambrusco,1930,21,0,0,Argentina,ARG
+168,oily-lambrusco,1930,21,0,0,Argentina,ARG
+168,oily-lambrusco,1930,21,0,0,Argentina,ARG
+168,oily-lambrusco,1930,21,0,0,Argentina,ARG
+168,oily-lambrusco,1930,21,0,0,Argentina,ARG
+168,oily-lambrusco,1930,21,0,0,Argentina,ARG
+168,oily-lambrusco,1930,21,0,0,Argentina,ARG
+239,internal-albariño,1950,23,0,0,Argentina,ARG
+239,internal-albariño,1950,23,0,0,Argentina,ARG
+239,internal-albariño,1950,23,0,0,Argentina,ARG
+239,internal-albariño,1950,23,0,0,Argentina,ARG
+239,internal-albariño,1950,23,0,0,Argentina,ARG
+239,internal-albariño,1950,23,0,0,Argentina,ARG
+239,internal-albariño,1950,23,0,0,Argentina,ARG
+239,internal-albariño,1950,23,0,0,Argentina,ARG
+239,internal-albariño,1950,23,0,0,Argentina,ARG
+239,internal-albariño,1950,23,0,0,Argentina,ARG
+262,exact-port,1968,68,0,0,Argentina,ARG
+262,exact-port,1968,68,0,0,Argentina,ARG
+262,exact-port,1968,68,0,0,Argentina,ARG
+262,exact-port,1968,68,0,0,Argentina,ARG
+262,exact-port,1968,68,0,0,Argentina,ARG
+262,exact-port,1968,68,0,0,Argentina,ARG
+262,exact-port,1968,68,0,0,Argentina,ARG
+262,exact-port,1968,68,0,0,Argentina,ARG
+262,exact-port,1968,68,0,0,Argentina,ARG
+262,exact-port,1968,68,0,0,Argentina,ARG
+292,happy-claret,1968,65,0,0,Argentina,ARG
+292,happy-claret,1968,65,0,0,Argentina,ARG
+292,happy-claret,1968,65,0,0,Argentina,ARG
+292,happy-claret,1968,65,0,0,Argentina,ARG
+292,happy-claret,1968,65,0,0,Argentina,ARG
+292,happy-claret,1968,65,0,0,Argentina,ARG
+292,happy-claret,1968,65,0,0,Argentina,ARG
+292,happy-claret,1968,65,0,0,Argentina,ARG
+292,happy-claret,1968,65,0,0,Argentina,ARG
+292,happy-claret,1968,65,0,0,Argentina,ARG
+334,resolving-barbaresco,1948,44,0,0,Argentina,ARG
+334,resolving-barbaresco,1948,44,0,0,Argentina,ARG
+334,resolving-barbaresco,1948,44,0,0,Argentina,ARG
+334,resolving-barbaresco,1948,44,0,0,Argentina,ARG
+334,resolving-barbaresco,1948,44,0,0,Argentina,ARG
+334,resolving-barbaresco,1948,44,0,0,Argentina,ARG
+334,resolving-barbaresco,1948,44,0,0,Argentina,ARG
+334,resolving-barbaresco,1948,44,0,0,Argentina,ARG
+334,resolving-barbaresco,1948,44,0,0,Argentina,ARG
+334,resolving-barbaresco,1948,44,0,0,Argentina,ARG
+365,future-marsanne,1944,59,0,0,Argentina,ARG
+365,future-marsanne,1944,59,0,0,Argentina,ARG
+365,future-marsanne,1944,59,0,0,Argentina,ARG
+365,future-marsanne,1944,59,0,0,Argentina,ARG
+365,future-marsanne,1944,59,0,0,Argentina,ARG
+365,future-marsanne,1944,59,0,0,Argentina,ARG
+365,future-marsanne,1944,59,0,0,Argentina,ARG
+365,future-marsanne,1944,59,0,0,Argentina,ARG
+365,future-marsanne,1944,59,0,0,Argentina,ARG
+365,future-marsanne,1944,59,0,0,Argentina,ARG
+413,impulsive-albariño,2016,72,0,0,Argentina,ARG
+413,impulsive-albariño,2016,72,0,0,Argentina,ARG
+413,impulsive-albariño,2016,72,0,0,Argentina,ARG
+413,impulsive-albariño,2016,72,0,0,Argentina,ARG
+413,impulsive-albariño,2016,72,0,0,Argentina,ARG
+413,impulsive-albariño,2016,72,0,0,Argentina,ARG
+413,impulsive-albariño,2016,72,0,0,Argentina,ARG
+413,impulsive-albariño,2016,72,0,0,Argentina,ARG
+413,impulsive-albariño,2016,72,0,0,Argentina,ARG
+413,impulsive-albariño,2016,72,0,0,Argentina,ARG
+464,cautious-rosé,1968,65,0,0,Argentina,ARG
+464,cautious-rosé,1968,65,0,0,Argentina,ARG
+464,cautious-rosé,1968,65,0,0,Argentina,ARG
+464,cautious-rosé,1968,65,0,0,Argentina,ARG
+464,cautious-rosé,1968,65,0,0,Argentina,ARG
+464,cautious-rosé,1968,65,0,0,Argentina,ARG
+464,cautious-rosé,1968,65,0,0,Argentina,ARG
+464,cautious-rosé,1968,65,0,0,Argentina,ARG
+464,cautious-rosé,1968,65,0,0,Argentina,ARG
+464,cautious-rosé,1968,65,0,0,Argentina,ARG
+452,chilly-chablis,1920,4,0,0,Argentina,ARG
+452,chilly-chablis,1920,4,0,0,Argentina,ARG
+452,chilly-chablis,1920,4,0,0,Argentina,ARG
+452,chilly-chablis,1920,4,0,0,Argentina,ARG
+452,chilly-chablis,1920,4,0,0,Argentina,ARG
+452,chilly-chablis,1920,4,0,0,Argentina,ARG
+452,chilly-chablis,1920,4,0,0,Argentina,ARG
+0,jolly-barolo,1996,30,1,1,Portugal,PRT
+0,jolly-barolo,1996,30,1,1,Portugal,PRT
+0,jolly-barolo,1996,30,1,1,Portugal,PRT
+35,warm-champagne,2002,13,1,1,Portugal,PRT
+35,warm-champagne,2002,13,1,1,Portugal,PRT
+35,warm-champagne,2002,13,1,1,Portugal,PRT
+35,warm-champagne,2002,13,1,1,Portugal,PRT
+35,warm-champagne,2002,13,1,1,Portugal,PRT
+35,warm-champagne,2002,13,1,1,Portugal,PRT
+35,warm-champagne,2002,13,1,1,Portugal,PRT
+35,warm-champagne,2002,13,1,1,Portugal,PRT
+35,warm-champagne,2002,13,1,1,Portugal,PRT
+35,warm-champagne,2002,13,1,1,Portugal,PRT
+78,crunchy-chablis,1934,32,1,1,Portugal,PRT
+78,crunchy-chablis,1934,32,1,1,Portugal,PRT
+78,crunchy-chablis,1934,32,1,1,Portugal,PRT
+78,crunchy-chablis,1934,32,1,1,Portugal,PRT
+78,crunchy-chablis,1934,32,1,1,Portugal,PRT
+78,crunchy-chablis,1934,32,1,1,Portugal,PRT
+78,crunchy-chablis,1934,32,1,1,Portugal,PRT
+78,crunchy-chablis,1934,32,1,1,Portugal,PRT
+78,crunchy-chablis,1934,32,1,1,Portugal,PRT
+78,crunchy-chablis,1934,32,1,1,Portugal,PRT
+110,chartreuse-rosé,1950,19,1,1,Portugal,PRT
+110,chartreuse-rosé,1950,19,1,1,Portugal,PRT
+110,chartreuse-rosé,1950,19,1,1,Portugal,PRT
+110,chartreuse-rosé,1950,19,1,1,Portugal,PRT
+110,chartreuse-rosé,1950,19,1,1,Portugal,PRT
+110,chartreuse-rosé,1950,19,1,1,Portugal,PRT
+110,chartreuse-rosé,1950,19,1,1,Portugal,PRT
+110,chartreuse-rosé,1950,19,1,1,Portugal,PRT
+110,chartreuse-rosé,1950,19,1,1,Portugal,PRT
+110,chartreuse-rosé,1950,19,1,1,Portugal,PRT
+144,chilly-prosecco,1994,15,1,1,Portugal,PRT
+144,chilly-prosecco,1994,15,1,1,Portugal,PRT
+144,chilly-prosecco,1994,15,1,1,Portugal,PRT
+144,chilly-prosecco,1994,15,1,1,Portugal,PRT
+144,chilly-prosecco,1994,15,1,1,Portugal,PRT
+144,chilly-prosecco,1994,15,1,1,Portugal,PRT
+144,chilly-prosecco,1994,15,1,1,Portugal,PRT
+144,chilly-prosecco,1994,15,1,1,Portugal,PRT
+144,chilly-prosecco,1994,15,1,1,Portugal,PRT
+144,chilly-prosecco,1994,15,1,1,Portugal,PRT
+170,paper-shiraz,1972,25,1,1,Portugal,PRT
+170,paper-shiraz,1972,25,1,1,Portugal,PRT
+170,paper-shiraz,1972,25,1,1,Portugal,PRT
+170,paper-shiraz,1972,25,1,1,Portugal,PRT
+170,paper-shiraz,1972,25,1,1,Portugal,PRT
+170,paper-shiraz,1972,25,1,1,Portugal,PRT
+170,paper-shiraz,1972,25,1,1,Portugal,PRT
+170,paper-shiraz,1972,25,1,1,Portugal,PRT
+170,paper-shiraz,1972,25,1,1,Portugal,PRT
+170,paper-shiraz,1972,25,1,1,Portugal,PRT
+214,rude-moscato,1958,43,1,1,Portugal,PRT
+214,rude-moscato,1958,43,1,1,Portugal,PRT
+214,rude-moscato,1958,43,1,1,Portugal,PRT
+214,rude-moscato,1958,43,1,1,Portugal,PRT
+214,rude-moscato,1958,43,1,1,Portugal,PRT
+214,rude-moscato,1958,43,1,1,Portugal,PRT
+214,rude-moscato,1958,43,1,1,Portugal,PRT
+214,rude-moscato,1958,43,1,1,Portugal,PRT
+214,rude-moscato,1958,43,1,1,Portugal,PRT
+214,rude-moscato,1958,43,1,1,Portugal,PRT
+252,cool-mead,1988,18,1,1,Portugal,PRT
+252,cool-mead,1988,18,1,1,Portugal,PRT
+252,cool-mead,1988,18,1,1,Portugal,PRT
+252,cool-mead,1988,18,1,1,Portugal,PRT
+252,cool-mead,1988,18,1,1,Portugal,PRT
+252,cool-mead,1988,18,1,1,Portugal,PRT
+252,cool-mead,1988,18,1,1,Portugal,PRT
+252,cool-mead,1988,18,1,1,Portugal,PRT
+252,cool-mead,1988,18,1,1,Portugal,PRT
+252,cool-mead,1988,18,1,1,Portugal,PRT
+286,proper-lambrusco,1916,12,1,1,Portugal,PRT
+286,proper-lambrusco,1916,12,1,1,Portugal,PRT
+286,proper-lambrusco,1916,12,1,1,Portugal,PRT
+286,proper-lambrusco,1916,12,1,1,Portugal,PRT
+286,proper-lambrusco,1916,12,1,1,Portugal,PRT
+286,proper-lambrusco,1916,12,1,1,Portugal,PRT
+286,proper-lambrusco,1916,12,1,1,Portugal,PRT
+286,proper-lambrusco,1916,12,1,1,Portugal,PRT
+286,proper-lambrusco,1916,12,1,1,Portugal,PRT
+286,proper-lambrusco,1916,12,1,1,Portugal,PRT
+349,worn-grappa,1978,0,1,1,Portugal,PRT
+349,worn-grappa,1978,0,1,1,Portugal,PRT
+349,worn-grappa,1978,0,1,1,Portugal,PRT
+349,worn-grappa,1978,0,1,1,Portugal,PRT
+349,worn-grappa,1978,0,1,1,Portugal,PRT
+349,worn-grappa,1978,0,1,1,Portugal,PRT
+349,worn-grappa,1978,0,1,1,Portugal,PRT
+349,worn-grappa,1978,0,1,1,Portugal,PRT
+349,worn-grappa,1978,0,1,1,Portugal,PRT
+349,worn-grappa,1978,0,1,1,Portugal,PRT
+390,rosy-prosecco,2006,17,1,1,Portugal,PRT
+390,rosy-prosecco,2006,17,1,1,Portugal,PRT
+390,rosy-prosecco,2006,17,1,1,Portugal,PRT
+390,rosy-prosecco,2006,17,1,1,Portugal,PRT
+390,rosy-prosecco,2006,17,1,1,Portugal,PRT
+390,rosy-prosecco,2006,17,1,1,Portugal,PRT
+390,rosy-prosecco,2006,17,1,1,Portugal,PRT
+390,rosy-prosecco,2006,17,1,1,Portugal,PRT
+390,rosy-prosecco,2006,17,1,1,Portugal,PRT
+390,rosy-prosecco,2006,17,1,1,Portugal,PRT
+433,linear-chardonnay,1910,56,1,1,Portugal,PRT
+433,linear-chardonnay,1910,56,1,1,Portugal,PRT
+433,linear-chardonnay,1910,56,1,1,Portugal,PRT
+433,linear-chardonnay,1910,56,1,1,Portugal,PRT
+433,linear-chardonnay,1910,56,1,1,Portugal,PRT
+433,linear-chardonnay,1910,56,1,1,Portugal,PRT
+433,linear-chardonnay,1910,56,1,1,Portugal,PRT
+433,linear-chardonnay,1910,56,1,1,Portugal,PRT
+433,linear-chardonnay,1910,56,1,1,Portugal,PRT
+433,linear-chardonnay,1910,56,1,1,Portugal,PRT
+458,allegro-grappa,1920,73,1,1,Portugal,PRT
+458,allegro-grappa,1920,73,1,1,Portugal,PRT
+458,allegro-grappa,1920,73,1,1,Portugal,PRT
+458,allegro-grappa,1920,73,1,1,Portugal,PRT
+458,allegro-grappa,1920,73,1,1,Portugal,PRT
+458,allegro-grappa,1920,73,1,1,Portugal,PRT
+458,allegro-grappa,1920,73,1,1,Portugal,PRT
+458,allegro-grappa,1920,73,1,1,Portugal,PRT
+458,allegro-grappa,1920,73,1,1,Portugal,PRT
+458,allegro-grappa,1920,73,1,1,Portugal,PRT
+21,strong-chinon,1960,74,2,1,Portugal,PRT
+21,strong-chinon,1960,74,2,1,Portugal,PRT
+21,strong-chinon,1960,74,2,1,Portugal,PRT
+21,strong-chinon,1960,74,2,1,Portugal,PRT
+21,strong-chinon,1960,74,2,1,Portugal,PRT
+18,serious-bardolino,1988,53,2,2,Estados Unidos,EUA
+18,serious-bardolino,1988,53,2,2,Estados Unidos,EUA
+18,serious-bardolino,1988,53,2,2,Estados Unidos,EUA
+18,serious-bardolino,1988,53,2,2,Estados Unidos,EUA
+18,serious-bardolino,1988,53,2,2,Estados Unidos,EUA
+36,frosty-claret,1964,20,2,2,Estados Unidos,EUA
+36,frosty-claret,1964,20,2,2,Estados Unidos,EUA
+36,frosty-claret,1964,20,2,2,Estados Unidos,EUA
+36,frosty-claret,1964,20,2,2,Estados Unidos,EUA
+36,frosty-claret,1964,20,2,2,Estados Unidos,EUA
+36,frosty-claret,1964,20,2,2,Estados Unidos,EUA
+36,frosty-claret,1964,20,2,2,Estados Unidos,EUA
+36,frosty-claret,1964,20,2,2,Estados Unidos,EUA
+36,frosty-claret,1964,20,2,2,Estados Unidos,EUA
+36,frosty-claret,1964,20,2,2,Estados Unidos,EUA
+75,staccato-rosé,1944,59,2,2,Estados Unidos,EUA
+75,staccato-rosé,1944,59,2,2,Estados Unidos,EUA
+75,staccato-rosé,1944,59,2,2,Estados Unidos,EUA
+75,staccato-rosé,1944,59,2,2,Estados Unidos,EUA
+75,staccato-rosé,1944,59,2,2,Estados Unidos,EUA
+75,staccato-rosé,1944,59,2,2,Estados Unidos,EUA
+75,staccato-rosé,1944,59,2,2,Estados Unidos,EUA
+75,staccato-rosé,1944,59,2,2,Estados Unidos,EUA
+75,staccato-rosé,1944,59,2,2,Estados Unidos,EUA
+75,staccato-rosé,1944,59,2,2,Estados Unidos,EUA
+119,arid-muscat,1998,50,2,2,Estados Unidos,EUA
+119,arid-muscat,1998,50,2,2,Estados Unidos,EUA
+119,arid-muscat,1998,50,2,2,Estados Unidos,EUA
+119,arid-muscat,1998,50,2,2,Estados Unidos,EUA
+119,arid-muscat,1998,50,2,2,Estados Unidos,EUA
+119,arid-muscat,1998,50,2,2,Estados Unidos,EUA
+119,arid-muscat,1998,50,2,2,Estados Unidos,EUA
+119,arid-muscat,1998,50,2,2,Estados Unidos,EUA
+119,arid-muscat,1998,50,2,2,Estados Unidos,EUA
+119,arid-muscat,1998,50,2,2,Estados Unidos,EUA
+149,messy-auslese,1920,62,2,2,Estados Unidos,EUA
+149,messy-auslese,1920,62,2,2,Estados Unidos,EUA
+149,messy-auslese,1920,62,2,2,Estados Unidos,EUA
+149,messy-auslese,1920,62,2,2,Estados Unidos,EUA
+149,messy-auslese,1920,62,2,2,Estados Unidos,EUA
+149,messy-auslese,1920,62,2,2,Estados Unidos,EUA
+149,messy-auslese,1920,62,2,2,Estados Unidos,EUA
+149,messy-auslese,1920,62,2,2,Estados Unidos,EUA
+149,messy-auslese,1920,62,2,2,Estados Unidos,EUA
+149,messy-auslese,1920,62,2,2,Estados Unidos,EUA
+196,orthogonal-muscat,1948,1,2,2,Estados Unidos,EUA
+196,orthogonal-muscat,1948,1,2,2,Estados Unidos,EUA
+196,orthogonal-muscat,1948,1,2,2,Estados Unidos,EUA
+196,orthogonal-muscat,1948,1,2,2,Estados Unidos,EUA
+196,orthogonal-muscat,1948,1,2,2,Estados Unidos,EUA
+196,orthogonal-muscat,1948,1,2,2,Estados Unidos,EUA
+196,orthogonal-muscat,1948,1,2,2,Estados Unidos,EUA
+196,orthogonal-muscat,1948,1,2,2,Estados Unidos,EUA
+196,orthogonal-muscat,1948,1,2,2,Estados Unidos,EUA
+196,orthogonal-muscat,1948,1,2,2,Estados Unidos,EUA
+232,brave-arneis,1942,35,2,2,Estados Unidos,EUA
+232,brave-arneis,1942,35,2,2,Estados Unidos,EUA
+232,brave-arneis,1942,35,2,2,Estados Unidos,EUA
+232,brave-arneis,1942,35,2,2,Estados Unidos,EUA
+232,brave-arneis,1942,35,2,2,Estados Unidos,EUA
+232,brave-arneis,1942,35,2,2,Estados Unidos,EUA
+232,brave-arneis,1942,35,2,2,Estados Unidos,EUA
+232,brave-arneis,1942,35,2,2,Estados Unidos,EUA
+232,brave-arneis,1942,35,2,2,Estados Unidos,EUA
+232,brave-arneis,1942,35,2,2,Estados Unidos,EUA
+270,swift-chianti,1916,38,2,2,Estados Unidos,EUA
+270,swift-chianti,1916,38,2,2,Estados Unidos,EUA
+270,swift-chianti,1916,38,2,2,Estados Unidos,EUA
+270,swift-chianti,1916,38,2,2,Estados Unidos,EUA
+270,swift-chianti,1916,38,2,2,Estados Unidos,EUA
+270,swift-chianti,1916,38,2,2,Estados Unidos,EUA
+270,swift-chianti,1916,38,2,2,Estados Unidos,EUA
+270,swift-chianti,1916,38,2,2,Estados Unidos,EUA
+270,swift-chianti,1916,38,2,2,Estados Unidos,EUA
+270,swift-chianti,1916,38,2,2,Estados Unidos,EUA
+304,interior-moscato,2008,69,2,2,Estados Unidos,EUA
+304,interior-moscato,2008,69,2,2,Estados Unidos,EUA
+304,interior-moscato,2008,69,2,2,Estados Unidos,EUA
+304,interior-moscato,2008,69,2,2,Estados Unidos,EUA
+304,interior-moscato,2008,69,2,2,Estados Unidos,EUA
+304,interior-moscato,2008,69,2,2,Estados Unidos,EUA
+304,interior-moscato,2008,69,2,2,Estados Unidos,EUA
+304,interior-moscato,2008,69,2,2,Estados Unidos,EUA
+304,interior-moscato,2008,69,2,2,Estados Unidos,EUA
+304,interior-moscato,2008,69,2,2,Estados Unidos,EUA
+337,trusting-chardonnay,1964,20,2,2,Estados Unidos,EUA
+337,trusting-chardonnay,1964,20,2,2,Estados Unidos,EUA
+337,trusting-chardonnay,1964,20,2,2,Estados Unidos,EUA
+337,trusting-chardonnay,1964,20,2,2,Estados Unidos,EUA
+337,trusting-chardonnay,1964,20,2,2,Estados Unidos,EUA
+337,trusting-chardonnay,1964,20,2,2,Estados Unidos,EUA
+337,trusting-chardonnay,1964,20,2,2,Estados Unidos,EUA
+337,trusting-chardonnay,1964,20,2,2,Estados Unidos,EUA
+337,trusting-chardonnay,1964,20,2,2,Estados Unidos,EUA
+337,trusting-chardonnay,1964,20,2,2,Estados Unidos,EUA
+370,plain-sauvignon,1958,26,2,2,Estados Unidos,EUA
+370,plain-sauvignon,1958,26,2,2,Estados Unidos,EUA
+370,plain-sauvignon,1958,26,2,2,Estados Unidos,EUA
+370,plain-sauvignon,1958,26,2,2,Estados Unidos,EUA
+370,plain-sauvignon,1958,26,2,2,Estados Unidos,EUA
+370,plain-sauvignon,1958,26,2,2,Estados Unidos,EUA
+370,plain-sauvignon,1958,26,2,2,Estados Unidos,EUA
+370,plain-sauvignon,1958,26,2,2,Estados Unidos,EUA
+370,plain-sauvignon,1958,26,2,2,Estados Unidos,EUA
+370,plain-sauvignon,1958,26,2,2,Estados Unidos,EUA
+412,broad-cabernet,1980,16,2,2,Estados Unidos,EUA
+412,broad-cabernet,1980,16,2,2,Estados Unidos,EUA
+412,broad-cabernet,1980,16,2,2,Estados Unidos,EUA
+412,broad-cabernet,1980,16,2,2,Estados Unidos,EUA
+412,broad-cabernet,1980,16,2,2,Estados Unidos,EUA
+412,broad-cabernet,1980,16,2,2,Estados Unidos,EUA
+412,broad-cabernet,1980,16,2,2,Estados Unidos,EUA
+412,broad-cabernet,1980,16,2,2,Estados Unidos,EUA
+412,broad-cabernet,1980,16,2,2,Estados Unidos,EUA
+412,broad-cabernet,1980,16,2,2,Estados Unidos,EUA
+463,sizzling-merlot,1958,52,2,2,Estados Unidos,EUA
+463,sizzling-merlot,1958,52,2,2,Estados Unidos,EUA
+463,sizzling-merlot,1958,52,2,2,Estados Unidos,EUA
+463,sizzling-merlot,1958,52,2,2,Estados Unidos,EUA
+463,sizzling-merlot,1958,52,2,2,Estados Unidos,EUA
+463,sizzling-merlot,1958,52,2,2,Estados Unidos,EUA
+463,sizzling-merlot,1958,52,2,2,Estados Unidos,EUA
+463,sizzling-merlot,1958,52,2,2,Estados Unidos,EUA
+463,sizzling-merlot,1958,52,2,2,Estados Unidos,EUA
+463,sizzling-merlot,1958,52,2,2,Estados Unidos,EUA
+483,frosty-bardolino,1988,18,2,2,Estados Unidos,EUA
+483,frosty-bardolino,1988,18,2,2,Estados Unidos,EUA
+483,frosty-bardolino,1988,18,2,2,Estados Unidos,EUA
+483,frosty-bardolino,1988,18,2,2,Estados Unidos,EUA
+483,frosty-bardolino,1988,18,2,2,Estados Unidos,EUA
+483,frosty-bardolino,1988,18,2,2,Estados Unidos,EUA
+483,frosty-bardolino,1988,18,2,2,Estados Unidos,EUA
+483,frosty-bardolino,1988,18,2,2,Estados Unidos,EUA
+31,internal-bardolino,1928,40,3,3,Argentina,ARG
+31,internal-bardolino,1928,40,3,3,Argentina,ARG
+54,annoying-zinfandel,1964,20,3,3,Argentina,ARG
+54,annoying-zinfandel,1964,20,3,3,Argentina,ARG
+54,annoying-zinfandel,1964,20,3,3,Argentina,ARG
+54,annoying-zinfandel,1964,20,3,3,Argentina,ARG
+54,annoying-zinfandel,1964,20,3,3,Argentina,ARG
+54,annoying-zinfandel,1964,20,3,3,Argentina,ARG
+54,annoying-zinfandel,1964,20,3,3,Argentina,ARG
+54,annoying-zinfandel,1964,20,3,3,Argentina,ARG
+54,annoying-zinfandel,1964,20,3,3,Argentina,ARG
+54,annoying-zinfandel,1964,20,3,3,Argentina,ARG
+96,cool-chablis,1998,42,3,3,Argentina,ARG
+96,cool-chablis,1998,42,3,3,Argentina,ARG
+96,cool-chablis,1998,42,3,3,Argentina,ARG
+96,cool-chablis,1998,42,3,3,Argentina,ARG
+96,cool-chablis,1998,42,3,3,Argentina,ARG
+96,cool-chablis,1998,42,3,3,Argentina,ARG
+96,cool-chablis,1998,42,3,3,Argentina,ARG
+96,cool-chablis,1998,42,3,3,Argentina,ARG
+96,cool-chablis,1998,42,3,3,Argentina,ARG
+96,cool-chablis,1998,42,3,3,Argentina,ARG
+135,kinetic-burgundy,1958,52,3,3,Argentina,ARG
+135,kinetic-burgundy,1958,52,3,3,Argentina,ARG
+135,kinetic-burgundy,1958,52,3,3,Argentina,ARG
+135,kinetic-burgundy,1958,52,3,3,Argentina,ARG
+135,kinetic-burgundy,1958,52,3,3,Argentina,ARG
+135,kinetic-burgundy,1958,52,3,3,Argentina,ARG
+135,kinetic-burgundy,1958,52,3,3,Argentina,ARG
+135,kinetic-burgundy,1958,52,3,3,Argentina,ARG
+135,kinetic-burgundy,1958,52,3,3,Argentina,ARG
+135,kinetic-burgundy,1958,52,3,3,Argentina,ARG
+177,sleek-noir,1988,61,3,3,Argentina,ARG
+177,sleek-noir,1988,61,3,3,Argentina,ARG
+177,sleek-noir,1988,61,3,3,Argentina,ARG
+177,sleek-noir,1988,61,3,3,Argentina,ARG
+177,sleek-noir,1988,61,3,3,Argentina,ARG
+177,sleek-noir,1988,61,3,3,Argentina,ARG
+177,sleek-noir,1988,61,3,3,Argentina,ARG
+177,sleek-noir,1988,61,3,3,Argentina,ARG
+177,sleek-noir,1988,61,3,3,Argentina,ARG
+177,sleek-noir,1988,61,3,3,Argentina,ARG
+228,coincident-sauvignon,1960,74,3,3,Argentina,ARG
+228,coincident-sauvignon,1960,74,3,3,Argentina,ARG
+228,coincident-sauvignon,1960,74,3,3,Argentina,ARG
+228,coincident-sauvignon,1960,74,3,3,Argentina,ARG
+228,coincident-sauvignon,1960,74,3,3,Argentina,ARG
+228,coincident-sauvignon,1960,74,3,3,Argentina,ARG
+228,coincident-sauvignon,1960,74,3,3,Argentina,ARG
+228,coincident-sauvignon,1960,74,3,3,Argentina,ARG
+228,coincident-sauvignon,1960,74,3,3,Argentina,ARG
+228,coincident-sauvignon,1960,74,3,3,Argentina,ARG
+275,bounded-merlot,2002,13,3,3,Argentina,ARG
+275,bounded-merlot,2002,13,3,3,Argentina,ARG
+275,bounded-merlot,2002,13,3,3,Argentina,ARG
+275,bounded-merlot,2002,13,3,3,Argentina,ARG
+275,bounded-merlot,2002,13,3,3,Argentina,ARG
+275,bounded-merlot,2002,13,3,3,Argentina,ARG
+275,bounded-merlot,2002,13,3,3,Argentina,ARG
+275,bounded-merlot,2002,13,3,3,Argentina,ARG
+275,bounded-merlot,2002,13,3,3,Argentina,ARG
+275,bounded-merlot,2002,13,3,3,Argentina,ARG
+333,cruel-moscato,1974,31,3,3,Argentina,ARG
+333,cruel-moscato,1974,31,3,3,Argentina,ARG
+333,cruel-moscato,1974,31,3,3,Argentina,ARG
+333,cruel-moscato,1974,31,3,3,Argentina,ARG
+333,cruel-moscato,1974,31,3,3,Argentina,ARG
+333,cruel-moscato,1974,31,3,3,Argentina,ARG
+333,cruel-moscato,1974,31,3,3,Argentina,ARG
+333,cruel-moscato,1974,31,3,3,Argentina,ARG
+333,cruel-moscato,1974,31,3,3,Argentina,ARG
+333,cruel-moscato,1974,31,3,3,Argentina,ARG
+359,tense-sauvignon,1950,23,3,3,Argentina,ARG
+359,tense-sauvignon,1950,23,3,3,Argentina,ARG
+359,tense-sauvignon,1950,23,3,3,Argentina,ARG
+359,tense-sauvignon,1950,23,3,3,Argentina,ARG
+359,tense-sauvignon,1950,23,3,3,Argentina,ARG
+359,tense-sauvignon,1950,23,3,3,Argentina,ARG
+359,tense-sauvignon,1950,23,3,3,Argentina,ARG
+359,tense-sauvignon,1950,23,3,3,Argentina,ARG
+359,tense-sauvignon,1950,23,3,3,Argentina,ARG
+359,tense-sauvignon,1950,23,3,3,Argentina,ARG
+373,brute-lambrusco,2016,72,3,3,Argentina,ARG
+373,brute-lambrusco,2016,72,3,3,Argentina,ARG
+373,brute-lambrusco,2016,72,3,3,Argentina,ARG
+373,brute-lambrusco,2016,72,3,3,Argentina,ARG
+373,brute-lambrusco,2016,72,3,3,Argentina,ARG
+373,brute-lambrusco,2016,72,3,3,Argentina,ARG
+373,brute-lambrusco,2016,72,3,3,Argentina,ARG
+373,brute-lambrusco,2016,72,3,3,Argentina,ARG
+373,brute-lambrusco,2016,72,3,3,Argentina,ARG
+373,brute-lambrusco,2016,72,3,3,Argentina,ARG
+451,bold-zinfandel,1998,50,3,3,Argentina,ARG
+451,bold-zinfandel,1998,50,3,3,Argentina,ARG
+451,bold-zinfandel,1998,50,3,3,Argentina,ARG
+451,bold-zinfandel,1998,50,3,3,Argentina,ARG
+451,bold-zinfandel,1998,50,3,3,Argentina,ARG
+451,bold-zinfandel,1998,50,3,3,Argentina,ARG
+451,bold-zinfandel,1998,50,3,3,Argentina,ARG
+451,bold-zinfandel,1998,50,3,3,Argentina,ARG
+451,bold-zinfandel,1998,50,3,3,Argentina,ARG
+451,bold-zinfandel,1998,50,3,3,Argentina,ARG
+494,beige-chablis,1912,45,3,3,Argentina,ARG
+494,beige-chablis,1912,45,3,3,Argentina,ARG
+494,beige-chablis,1912,45,3,3,Argentina,ARG
+494,beige-chablis,1912,45,3,3,Argentina,ARG
+494,beige-chablis,1912,45,3,3,Argentina,ARG
+494,beige-chablis,1912,45,3,3,Argentina,ARG
+494,beige-chablis,1912,45,3,3,Argentina,ARG
+494,beige-chablis,1912,45,3,3,Argentina,ARG
+494,beige-chablis,1912,45,3,3,Argentina,ARG
+494,beige-chablis,1912,45,3,3,Argentina,ARG

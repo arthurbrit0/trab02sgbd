@@ -1,0 +1,76 @@
+A.uva_id,A.nome,A.tipo,A.ano_colheita,A.pais_origem_id,B.pais_id,B.nome,B.sigla
+0,Sauvignon Blanc,branco,1974,0,0,Argentina,ARG
+0,Sauvignon Blanc,branco,1974,0,0,Argentina,ARG
+0,Sauvignon Blanc,branco,1974,0,0,Argentina,ARG
+0,Sauvignon Blanc,branco,1974,0,0,Argentina,ARG
+0,Sauvignon Blanc,branco,1974,0,0,Argentina,ARG
+0,Sauvignon Blanc,branco,1974,0,0,Argentina,ARG
+0,Sauvignon Blanc,branco,1974,0,0,Argentina,ARG
+0,Sauvignon Blanc,branco,1974,0,0,Argentina,ARG
+0,Sauvignon Blanc,branco,1974,0,0,Argentina,ARG
+0,Sauvignon Blanc,branco,1974,0,0,Argentina,ARG
+71,Ruby Seedless,tinto,2014,0,0,Argentina,ARG
+71,Ruby Seedless,tinto,2014,0,0,Argentina,ARG
+71,Ruby Seedless,tinto,2014,0,0,Argentina,ARG
+71,Ruby Seedless,tinto,2014,0,0,Argentina,ARG
+71,Ruby Seedless,tinto,2014,0,0,Argentina,ARG
+71,Ruby Seedless,tinto,2014,0,0,Argentina,ARG
+3,Riesling,branco,1953,1,1,Portugal,PRT
+3,Riesling,branco,1953,1,1,Portugal,PRT
+3,Riesling,branco,1953,1,1,Portugal,PRT
+3,Riesling,branco,1953,1,1,Portugal,PRT
+35,Chardonnay,tinto,1941,1,1,Portugal,PRT
+35,Chardonnay,tinto,1941,1,1,Portugal,PRT
+35,Chardonnay,tinto,1941,1,1,Portugal,PRT
+35,Chardonnay,tinto,1941,1,1,Portugal,PRT
+35,Chardonnay,tinto,1941,1,1,Portugal,PRT
+35,Chardonnay,tinto,1941,1,1,Portugal,PRT
+35,Chardonnay,tinto,1941,1,1,Portugal,PRT
+35,Chardonnay,tinto,1941,1,1,Portugal,PRT
+35,Chardonnay,tinto,1941,1,1,Portugal,PRT
+35,Chardonnay,tinto,1941,1,1,Portugal,PRT
+24,Merlot,tinto,1974,2,1,Portugal,PRT
+1,Muscat Hamburg,tinto,1939,2,2,Estados Unidos,EUA
+1,Muscat Hamburg,tinto,1939,2,2,Estados Unidos,EUA
+1,Muscat Hamburg,tinto,1939,2,2,Estados Unidos,EUA
+1,Muscat Hamburg,tinto,1939,2,2,Estados Unidos,EUA
+1,Muscat Hamburg,tinto,1939,2,2,Estados Unidos,EUA
+1,Muscat Hamburg,tinto,1939,2,2,Estados Unidos,EUA
+1,Muscat Hamburg,tinto,1939,2,2,Estados Unidos,EUA
+1,Muscat Hamburg,tinto,1939,2,2,Estados Unidos,EUA
+1,Muscat Hamburg,tinto,1939,2,2,Estados Unidos,EUA
+50,Purple Cornichon,rosé,1989,2,2,Estados Unidos,EUA
+50,Purple Cornichon,rosé,1989,2,2,Estados Unidos,EUA
+50,Purple Cornichon,rosé,1989,2,2,Estados Unidos,EUA
+50,Purple Cornichon,rosé,1989,2,2,Estados Unidos,EUA
+50,Purple Cornichon,rosé,1989,2,2,Estados Unidos,EUA
+50,Purple Cornichon,rosé,1989,2,2,Estados Unidos,EUA
+50,Purple Cornichon,rosé,1989,2,2,Estados Unidos,EUA
+50,Purple Cornichon,rosé,1989,2,2,Estados Unidos,EUA
+50,Purple Cornichon,rosé,1989,2,2,Estados Unidos,EUA
+50,Purple Cornichon,rosé,1989,2,2,Estados Unidos,EUA
+47,Riesling,branco,1913,2,2,Estados Unidos,EUA
+47,Riesling,branco,1913,2,2,Estados Unidos,EUA
+22,Chardonnay,tinto,1988,3,3,Argentina,ARG
+22,Chardonnay,tinto,1988,3,3,Argentina,ARG
+22,Chardonnay,tinto,1988,3,3,Argentina,ARG
+22,Chardonnay,tinto,1988,3,3,Argentina,ARG
+22,Chardonnay,tinto,1988,3,3,Argentina,ARG
+22,Chardonnay,tinto,1988,3,3,Argentina,ARG
+22,Chardonnay,tinto,1988,3,3,Argentina,ARG
+22,Chardonnay,tinto,1988,3,3,Argentina,ARG
+39,Flame Seedless,rosé,1954,3,3,Argentina,ARG
+39,Flame Seedless,rosé,1954,3,3,Argentina,ARG
+39,Flame Seedless,rosé,1954,3,3,Argentina,ARG
+39,Flame Seedless,rosé,1954,3,3,Argentina,ARG
+39,Flame Seedless,rosé,1954,3,3,Argentina,ARG
+39,Flame Seedless,rosé,1954,3,3,Argentina,ARG
+39,Flame Seedless,rosé,1954,3,3,Argentina,ARG
+39,Flame Seedless,rosé,1954,3,3,Argentina,ARG
+39,Flame Seedless,rosé,1954,3,3,Argentina,ARG
+39,Flame Seedless,rosé,1954,3,3,Argentina,ARG
+51,Chardonnay,branco,2007,3,3,Argentina,ARG
+51,Chardonnay,branco,2007,3,3,Argentina,ARG
+51,Chardonnay,branco,2007,3,3,Argentina,ARG
+51,Chardonnay,branco,2007,3,3,Argentina,ARG
+51,Chardonnay,branco,2007,3,3,Argentina,ARG
